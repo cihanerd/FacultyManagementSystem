@@ -1,0 +1,17 @@
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.csproj.AssemblyReference.cache
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.AssemblyInfoInputs.cache
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.AssemblyInfo.cs
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\FacultyManagement.Data.deps.json
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\FacultyManagement.Data.runtimeconfig.json
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\FacultyManagement.Data.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\ref\FacultyManagement.Data.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\FacultyManagement.Data.pdb
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\FacultyManagement.Model.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\bin\Debug\net6.0\FacultyManagement.Model.pdb
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.csproj.CopyComplete
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\ref\FacultyManagement.Data.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.pdb
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Data\obj\Debug\net6.0\FacultyManagement.Data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\bin\Debug\net6.0\FacultyManagement.Model.deps.json
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\bin\Debug\net6.0\FacultyManagement.Model.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\bin\Debug\net6.0\ref\FacultyManagement.Model.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\bin\Debug\net6.0\FacultyManagement.Model.pdb
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.AssemblyInfoInputs.cache
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.AssemblyInfo.cs
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\ref\FacultyManagement.Model.dll
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.pdb
+C:\Users\erdog\source\repos\upwork\FacultyManagementSystem\FacultyManagement.Model\obj\Debug\net6.0\FacultyManagement.Model.csproj.AssemblyReference.cache
