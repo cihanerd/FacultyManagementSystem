@@ -111,6 +111,7 @@ namespace FacultyManagementSystemUI
             else if(ActiveUser.User.Role == Role.Instructor)
             {
                 coordinatorToolStripMenuItem.Visible = false ;
+                studentsToolStripMenuItem.Visible=false;
             }
         }
 

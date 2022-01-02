@@ -49,10 +49,19 @@ namespace FacultyManagementSystemUI
 
         private async void RefreshData()
         {
-            dgvStudents.DataSource = await _context.Students.Include(x => x.Advisor).AsNoTracking().ToListAsync();
-            dgvStudents.Columns[0].Width = 250;
+            if (ActiveUser.User.Role!=FacultyManagement.Model.Role.Coordinator)
+            {
+                dgvStudents.DataSource = await _context.Students.Where(x => x.Id == ActiveUser.User.PersonalId).Include(x => x.Advisor).AsNoTracking().ToListAsync();
+            }
+            else
+            {
+                dgvStudents.DataSource = await _context.Students.Include(x => x.Advisor).AsNoTracking().ToListAsync();
+            }
+            
+            dgvStudents.Columns[0].Width = 150;
             dgvStudents.Columns[1].Width = 200;
             dgvStudents.Columns[2].Width = 200;
+            dgvStudents.Columns[3].Width = 200;
         }
 
         private void btnRefresh_Click(object sender, EventArgs e)

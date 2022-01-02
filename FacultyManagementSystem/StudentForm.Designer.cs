@@ -158,7 +158,8 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(56, 17);
             this.label6.TabIndex = 99;
-            this.label6.Text = "Adviser";
+            this.label6.Text = "Advisor";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // cmbInstructors
             // 
